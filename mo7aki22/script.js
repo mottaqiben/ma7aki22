@@ -38,6 +38,6 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     document.getElementById("checkout").addEventListener("click", () => {
-        alert("سيتم الدفع عبر PayPal قريبًا! 🚀");
+        alert("https://paypal.me/MottaqibenMbark?country.x=MA&locale.x=ar_EG");
     });
 });
